@@ -2,7 +2,7 @@
 
 ## 📒 Descrição
 Este projeto utiliza Inteligências Artificiais Generativas para criar um vídeo. 
-https://github.com/Soraya917/lab-natty-or-not
+https://github.com/Soraya917/lab_natty_or_not/
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT e HeyGen
